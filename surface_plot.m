@@ -5,7 +5,7 @@ theta12=(0:pi/50:pi)*180/pi;
 theta13=(0:pi/50:pi)*180/pi;
 
 % theta12=(0:pi/50:pi);
-% theta13=(0:pi/50:pi);
+% theta13=(0:pi/50:pi);dfsdfsdf
 
 r1=10;
 r2=20;
